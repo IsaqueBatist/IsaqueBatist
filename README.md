@@ -1,10 +1,8 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=E7E7E7&center=true&random=false&width=435&lines=Hello%2C+My+name+is+Isaque+%E2%9C%8C)](https://git.io/typing-svg)
 
 - 🎯 Objectve: To work in the IT area, focused on **front-end development**
 - 🇧🇷 Nationality: Brazilian 
 - 👨‍🦱 Pronums: he/him 
-- 📰website: [Visit](https://isaquebatist.github.io/Portifolio_DIO/)
 
 <div>
 
@@ -79,4 +77,8 @@
   </a>
   <img align="center" alt="Discord" title="barbosa4814" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" / > 
 
+</div><br>
+
+<div align="center"><br>
+  made whith 💜 and ☕
 </div>
