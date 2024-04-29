@@ -36,7 +36,6 @@
   
    <div style="display: inline_block">
       <img align="center" alt="REACT" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-      <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
     </div>    
     
   #### What I pretend to study after
