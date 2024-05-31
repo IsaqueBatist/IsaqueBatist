@@ -4,11 +4,6 @@
 - 🇧🇷 Nationality: Brazilian 
 - 👨‍🦱 Pronums: he/him 
 
-<div>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsaqueBatist&theme=high-contrast&custom_title=My%20activity)](https://github.com/IsaqueBatist/github-readme-activity-graph)
-</div>
-
   ## GIT Status
   <div style="display: inline_block">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=IsaqueBatist&show_icons=true&title_color=E7E7E7&hide_title=true&text_color=E7E7E7&bg_color=000000&icon_color=E7E7E7" alt="IsaqueBatist's github stats" /> 
