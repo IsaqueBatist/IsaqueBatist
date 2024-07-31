@@ -1,9 +1,6 @@
 
-<div style="text-align: center">
-    <img src="https://i.pinimg.com/originals/5f/26/47/5f264729a4b1c06cff163013ac6c026f.gif" alt="drawing" width="50%"/>
-</div>
+<img src="https://i.pinimg.com/originals/5f/26/47/5f264729a4b1c06cff163013ac6c026f.gif" alt="drawing" width="50%"/>
 
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=E7E7E7&center=true&random=false&width=435&lines=Hello%2C+My+name+is+Isaque+%E2%9C%8C)](https://git.io/typing-svg)
 
@@ -12,11 +9,25 @@
 
 
 
-    ## About Me
+  ## About Me
+    <li>
+      <b>Love:</b>  Anime, Games, Coding
+    </li>
+    <li>
+      <b>Hobbys:</b>  Programming something, playing the saxophone and practicing taekwondo
+    </li>
+    <li>
+      <b>Studyng@:</b>  Fatec Itu - ADS 2°Semester
+    </li>
     
-    <div>
-        <p>What's up, I'm 18 years old and I like to play some games like Darksouls I and listen to some music. I'm studying web development because I want to be a front-end developer. I intend to specialize in React with TypeScript, I fell in love with the language and Library </p>
-    </div>
+
+    <h3 align="center">What I was listenign to</h3>
+    <div align="center">
+    
+     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31q2tuqwyuijc6q4iahs2ddlduny)
+
+     </div>
+  
 
   ## My Skills
 
@@ -39,6 +50,9 @@
      <img align="center" alt="REACT" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
     </div>    
     
+    
+   <img src="https://i.redd.it/rl8vfal5fmfd1.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Persistencia da Memoria" />
+    
   #### What I pretend to study soon
   
    <div style="display: inline_block">
@@ -49,7 +63,7 @@
 
 
   #### Where am I studing?
-   <div style="display: inline_block">
+   <div>
     <a href="https://www.cursoemvideo.com/login/">
     <img align="center" alt="CEV" src="https://img.shields.io/badge/Curso em Video-000000?style=for-the-badge" />
     </a>
@@ -82,8 +96,6 @@
     </div>
 
 <br>
-
-
 
 <div align="center"><br>
   made whith 💜 and ☕
