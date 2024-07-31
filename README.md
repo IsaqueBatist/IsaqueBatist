@@ -17,7 +17,7 @@
       <b>Hobbys:</b>  Programming something, playing the saxophone and practicing taekwondo
     </li>
     <li>
-      <b>Studyng@:</b>  Fatec Itu - ADS 2°Semester
+      <b>Studying@:</b>  Fatec Itu - ADS 2°Semester
     </li>
     
 
