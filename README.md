@@ -21,14 +21,6 @@
     </li>
     
 
-    <h3 align="center">What I was listenign to</h3>
-    <div align="center">
-    
-     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31q2tuqwyuijc6q4iahs2ddlduny)
-
-     </div>
-  
-
   ## My Skills
 
   #### Technology that I already use in my projects
