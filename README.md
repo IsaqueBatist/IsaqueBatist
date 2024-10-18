@@ -38,8 +38,8 @@
   #### Studing in this moment
 
    <div style="display: inline_block">
-     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+     <img align="center" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+     
     </div>    
     
     
@@ -48,8 +48,6 @@
   #### What I pretend to study soon
   
    <div style="display: inline_block">
-     
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
       <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
    </div>
 
