@@ -14,7 +14,7 @@
       <b>Love:</b>  Anime, Games, Coding
     </li>
     <li>
-      <b>Hobbys:</b>  Programming something, playing the saxophone and practicing taekwondo
+      <b>Hobbies:</b>  Programming something, playing the saxophone and practicing taekwondo
     </li>
     <li>
       <b>Studying@:</b>  Fatec Itu - ADS 2°Semester
