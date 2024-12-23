@@ -66,9 +66,7 @@
      <a href="https://judge.beecrowd.com/pt/profile/956984">
     <img align="center" alt="Beecrownd" src="https://img.shields.io/badge/Beecrownd-000000?style=for-the-badge" />
     </a>
-   </div>
-
-
+   </div> 
     <div>
     
     ### My Stats
@@ -85,8 +83,16 @@
     
     </div>
 
-<br>
+    
+    <div>
+    
+    ## Academic work
+    [Fleet control system - Portuguese](https://drive.google.com/file/d/1bTQPTEMhXv0Okgn41oaW8cpVq69PcAL3/view?usp=drive_link)
+    
+    </div> 
+    
 
+    
 <div align="center"><br>
   made whith 💜 and ☕
 </div>
