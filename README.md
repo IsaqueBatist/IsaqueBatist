@@ -38,7 +38,7 @@
   #### Studing in this moment
 
    <div style="display: inline_block">
-     <img align="center" alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
      
     </div>    
     
