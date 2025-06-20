@@ -69,7 +69,8 @@
 
 ## 📄 Academic Work
 
-[Fleet control system (PDF - PT-BR)](https://drive.google.com/file/d/1bTQPTEMhXv0Okgn41oaW8cpVq69PcAL3/view?usp=drive_link)
+[Fleet control system (PDF - PT-BR)](https://drive.google.com/file/d/1bTQPTEMhXv0Okgn41oaW8cpVq69PcAL3/view?usp=drive_link)<br>
+[IT Infrastructure – Dionísios Brewery (PDF - PT-BR)](https://drive.google.com/file/d/1rKBem6x_cAQEwePxeQ6gar2EDL0oJXmy/view?usp=drive_link)
 
 ---
 
