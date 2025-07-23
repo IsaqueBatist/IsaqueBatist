@@ -15,13 +15,13 @@
 ## 🚀 Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F8C66A?style=for-the-badge&logo=html5&logoColor=black" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-D5C9C6?style=for-the-badge&logo=css3&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F8FAFC?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6B7F59?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-A9402C?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5C4432?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-D5C9C6?style=for-the-badge&logo=git&logoColor=black" />
 </div>
 
 ---
@@ -30,16 +30,16 @@
 
 - Currently studying:
    
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-573FB2?style=for-the-badge&logo=Redux&logoColor=white" />
-  <img alt="StyledComponents" src="https://img.shields.io/badge/StyledComponents-D876B2?style=for-the-badge&logo=StyledComponents&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-A9402C?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-6B7F59?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-5C4432?style=for-the-badge&logo=Redux&logoColor=white" />
+  <img alt="StyledComponents" src="https://img.shields.io/badge/StyledComponents-F8C66A?style=for-the-badge&logo=StyledComponents&logoColor=black" />
 ---
 
 ## 🧠 Education
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img alt="Curso em Vídeo" src="https://img.shields.io/badge/Curso%20em%20Vídeo-D4B28C?style=for-the-badge&logoColor=white" />
+  <img alt="Curso em Vídeo" src="https://img.shields.io/badge/Curso%20em%20Vídeo-D5C9C6?style=for-the-badge&logoColor=black" />
   <img alt="DIO" src="https://img.shields.io/badge/DIO-A9402C?style=for-the-badge&logoColor=white" />
   <img alt="Abutua" src="https://img.shields.io/badge/Abutua-6B7F59?style=for-the-badge&logoColor=white" />
   <img alt="Beecrowd" src="https://img.shields.io/badge/Beecrowd-5C4432?style=for-the-badge&logoColor=white" />
